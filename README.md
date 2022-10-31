@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rishabhpar7)](https://holopin.io/@rishabhpar7)
+[![@rishabhpar7's Holopin board](https://holopin.me/rishabhpar7)](https://holopin.io/@rishabhpar7)
+
 
 <p align="center"> 
   Visitor count<br>
