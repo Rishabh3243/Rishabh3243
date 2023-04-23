@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/06/tumblr_nq5k4ogcPS1rsdpaso1_500.gif?resize=500%2C426"/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -63,11 +60,9 @@ Designing :
 
 ## 🔢 Some digits
 
-<table
 <p aligne="center">
 <p align="left">
 <img height="200px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh3243&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
-<img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/06/tumblr_nq5k4ogcPS1rsdpaso1_500.gif?resize=500%2C426"/>
 <img alt="Rishabh's most used language(ig u should refresh🧐! or come back later🐱‍💻)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh3243&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="340px"/></a>
 </p>
 <p align="right">      
