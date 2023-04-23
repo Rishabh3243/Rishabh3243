@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/06/tumblr_nq5k4ogcPS1rsdpaso1_500.gif?resize=500%2C426"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
