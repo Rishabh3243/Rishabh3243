@@ -62,17 +62,16 @@ Designing :
 
 
 ## 🔢 Some digits
+
+<table
 <p aligne="center">
 <p align="left">
 <img height="200px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh3243&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
-</p>
-<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Rishabh3243&show_icons=true&theme=radical" alt="ig u should refresh🧐! or come back later🐱‍💻" />
 <img alt="Rishabh's most used language(ig u should refresh🧐! or come back later🐱‍💻)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh3243&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="340px"/></a>
 </p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Rishabh3243&show_icons=true&theme=radical" alt="ig u should refresh🧐! or come back later🐱‍💻" /></p>
-<p align="right">
-        <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/06/tumblr_nq5k4ogcPS1rsdpaso1_500.gif?resize=500%2C426"/>
+<p align="right">      
+<img src="https://github-readme-stats.vercel.app/api?username=Rishabh3243&show_icons=true&theme=radical" alt="ig u should refresh🧐! or come back later🐱‍💻" />
 </p>
 
 </p>
