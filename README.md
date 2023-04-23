@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rishabhpar7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rishabhpar7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rishabhpar7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rishabhpar7/" height="30" width="40" /></a>
 </p>
-
+<!--
 ## 🛠 &nbsp;Tech Stack
 <br>
 Languages : 
@@ -50,7 +50,7 @@ Tools :
 Designing : 
       ![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva&logoColor=%2300C4CC)&nbsp;
       ![Figma](https://img.shields.io/badge/figma-05122A?style=flat&logo=figma&logoColor=%23F24E1E)&nbsp;
-      
+ -->     
       
 <!--![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh3243&show_icons=true&theme=radical)
 
