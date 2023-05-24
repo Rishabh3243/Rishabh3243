@@ -73,7 +73,6 @@ Designing :
 </center>
 <hr>
 
-[![@rishabhpar7's Holopin board](https://holopin.me/rishabhpar7)](https://holopin.io/@rishabhpar7)
 
 
 
@@ -85,6 +84,11 @@ Designing :
 
 
 <br />
+
+
+
+[![@rishabhpar7's Holopin board](https://holopin.me/rishabhpar7)](https://holopin.io/@rishabhpar7)
+
 
 
 <p align="center"> 
