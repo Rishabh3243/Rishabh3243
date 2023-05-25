@@ -69,7 +69,7 @@ Designing :
 </p>
 </center>
 <center>
-<img height="200px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh3243&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
+<img align="center" height="200px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh3243&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
 </center>
 <hr>
 
