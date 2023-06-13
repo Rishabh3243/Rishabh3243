@@ -100,9 +100,6 @@ Designing :
 
 
 
-[![@rishabhpar7's Holopin board](https://holopin.me/rishabhpar7)](https://holopin.io/@rishabhpar7)
-
-
 
 <p align="center"> 
   Visitor count<br>
