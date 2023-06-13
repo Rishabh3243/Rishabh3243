@@ -113,5 +113,5 @@ Designing :
 
 
 <p>
-        https://metrics.lecoq.io/insights/Rishabh3243
+          <img src="https://metrics.lecoq.io/insights/Rishabh3243" />
  </p>
