@@ -65,9 +65,7 @@ Designing :
 <p aligne="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rishabh3243&show_icons=true&theme=radical" alt="ig u should refresh🧐! or come back later🐱‍💻" />
 <img alt="Rishabh's most used language(ig u should refresh🧐! or come back later🐱‍💻)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh3243&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="340px"/></a>
-<center>
 <img align="center" height="200px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh3243&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
-</center>
 </p>
 
 <hr>
@@ -92,24 +90,29 @@ Designing :
     <!-- bootstrap -->
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <!-- tailwind -->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
+    <!-- oracle sql -->
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+    <!-- mysql -->
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <!-- PHP -->
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <!-- Node js -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <!-- express -->
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express js" width="40" height="40"/> </a>  
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> </a>
+    <!-- react js -->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <!-- mui -->
     <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a>
+    <!-- express -->
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express js" width="40" height="40"/> </a>
+    <!-- mongodb -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <!-- sqlite -->
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> </a>
+    <!-- java -->
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+    <!-- python -->
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 
@@ -119,7 +122,7 @@ Designing :
 
 
 
-<p> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rishabh3243/count.svg" />
 </p>
