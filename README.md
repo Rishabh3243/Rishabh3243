@@ -78,7 +78,7 @@ Designing :
 ### 👨🏻‍💻 &nbsp;Languages and Tools:
 ---
 
-<p aligen="center"> 
+<p align="center"> 
     <!-- c -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
     <!-- cpp -->
@@ -108,7 +108,7 @@ Designing :
 
 
 
-<p aligen="center"> 
+<p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rishabh3243/count.svg" />
 </p>
