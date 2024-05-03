@@ -62,16 +62,18 @@ Designing :
 
 ## 🔢 Some digits
 
-<center>
+
 <p aligne="center">
+        <center>
         <img src="https://github-readme-stats.vercel.app/api?username=Rishabh3243&show_icons=true&theme=radical" alt="ig u should refresh🧐! or come back later🐱‍💻" />
 <img alt="Rishabh's most used language(ig u should refresh🧐! or come back later🐱‍💻)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh3243&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="340px"/></a>
 
 </center>
 <center>
 <img align="center" height="200px" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh3243&theme=tokyonight" alt="ig u should refresh🧐! or come back later🐱‍💻" />
-        </p>
-</center>
+</center>     
+</p>   
+
 <hr>
 
 
@@ -93,8 +95,7 @@ Designing :
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 
