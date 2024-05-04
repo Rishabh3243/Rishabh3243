@@ -117,12 +117,7 @@ Designing :
     <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
-
-
 <br />
-
-
-
 
 <p align="center"> 
   Visitor count<br>
