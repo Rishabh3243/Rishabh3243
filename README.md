@@ -17,12 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishabh-parmar-650541200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bn2z39ooxrnekjqd0ggebsg%3d%3d" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishabh-parmar-650541200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bn2z39ooxrnekjqd0ggebsg%3d%3d" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rishabhpar7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rishabhpar7" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rishabhpar7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rishabhpar7/" height="30" width="40" /></a>
+<p align="center">
+    <!-- Linkedin -->
+    <a href="https://www.linkedin.com/in/rishabh-parmar-650541200/" target="_blank">    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <!-- youtube -->
+    <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyyhdcuvtkao-95xnfelisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+    <!-- geeksforgeeks -->
+    <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rishabhpar7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
+    <!-- instagram -->
+    <a href="https://www.instagram.com/rishabhpar7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 <!--
 ## 🛠 &nbsp;Tech Stack
